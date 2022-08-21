@@ -6,10 +6,10 @@
     "titleBar.activeForeground": "#FDFBF9"
   },
   // Python Settings
-  "python.defaultInterpreterPath": "/Users/kavi/workspaces/personal/service-kavi-quotes/app/.venv/bin/python3",
+  "python.defaultInterpreterPath": "${workspaceFolder}/app/.venv/bin/python3",
   "python.venvFolders": [
     "/Users/kavi/Library/Caches/pypoetry/virtualenvs/",
-    "/Users/kavi/workspaces/personal/service-kavi-quotes/app/.venv/"
+    "${workspaceFolder}/app/.venv/"
   ],
   "python.terminal.activateEnvironment": true,
   "python.envFile": "${workspaceFolder}/.env",
