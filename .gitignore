@@ -133,8 +133,9 @@ dmypy.json
 
 # Database Files
 *.db
+**/*.csv
+**/*.xlsx
 
 # Custom Files
 **/output/*
 !**/output/.gitkee
-
