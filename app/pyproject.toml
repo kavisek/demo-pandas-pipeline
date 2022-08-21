@@ -27,6 +27,7 @@ pytest-cov = "^2.12.1"
 sendgrid = "^6.7.1"
 mypy = "^0.961"
 coloredlogs = "^15.0.1"
+kaggle = "^1.5.12"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
