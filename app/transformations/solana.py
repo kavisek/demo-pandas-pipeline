@@ -1,5 +1,6 @@
+from tkinter.filedialog import askopenfile
 import pandas as pd
-
+import numpy as np
 
 class SolanaJobs:
     def __init__(self):
